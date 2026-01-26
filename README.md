@@ -1,42 +1,68 @@
-# 29-repo-showcase
+# portfolio-repo-showcase
 
-✨ A high-performance, developer-first showcase foundation built with React. Featuring advanced repository visualization patterns, sophisticated component architectures, and a lightning-fast Vite-powered pipeline for presenting technical portfolios.
+Curated showcase of selected repositories demonstrating technical depth.
 
-## Features
-- 💎 Professional Repository Visualization Foundation
-- ⚛️ Sophisticated React 18 Showcase Components
-- 📱 Responsive Multi-Resolution Interaction Design
-- 🛡️ Advanced Portfolio Logic Patterns
-- ⚡ High-Speed Pipeline via Vite 6
-
-## Tech Stack
-- **Frontend**: React 18, Tailwind CSS v4
-- **Build Tool**: Vite 6
-- **Icons**: Lucide React
-- **Animations**: Framer Motion
-
-## Quick Start
-```bash
-npm install
-npm run dev
-```
-## Documentation
-- [Architecture Overview](docs/ARCHITECTURE.md)
-- [Design System](docs/DESIGN.md)
-- [Deployment Guide](docs/DEPLOY.md)
-
-## Live Deployment
-- **GitHub Pages**: [https://mk-knight23.github.io/29-repo-showcase/](https://mk-knight23.github.io/29-repo-showcase/)
-- **Status**: 🟢 Live
-- **Modernized**: 2026-01-23
+Part of the MUSHARRAF KAZI portfolio ecosystem — AI Engineer & Indie Builder
+specializing in Agentic AI, Developer Tools, Multi-LLM Routing, and SaaS Automation.
 
 ---
-*Maintained by [Kazi Musharraf](https://github.com/mk-knight23)*
 
-## 🌐 Live Deployments
+## About
 
-- Vercel: https://29-repo-showcase.vercel.app
-- GitHub Pages: https://mk-knight23.github.io/29-repo-showcase/
+A curated selection of repositories showcasing expertise across AI/ML, web development,
+developer tools, and product engineering.
 
-Status: 🟢 Deployments Live  
-Last Updated: 2026-01-23
+---
+
+## VIBE Ecosystem (Flagship Project)
+
+**Founder & AI Engineer**
+
+A multi-product AI developer platform:
+
+| Product | Type | Key Features |
+|---------|------|--------------|
+| VIBE CLI | CLI Tool | Multi-agent coding, TUI, LLM routing |
+| VIBE VS Code | Extension | State-machine orchestration, streaming |
+| VIBE Web | Documentation | Onboarding, guides, API reference |
+| VIBE Chat | Web App | AI website builder, generative UI |
+
+**Technical Foundation:**
+- Hierarchical RAG (H-RAG)
+- Decision Agents + Orchestrator
+- Multi-provider LLM routing
+- Security-first architecture
+
+---
+
+## Repository Collections
+
+### AI & Agents
+Projects demonstrating agentic AI, RAG systems, and LLM integration.
+
+### Web Applications
+Full-stack applications with React, Next.js, Vue, and TypeScript.
+
+### Developer Tools
+CLI applications, VS Code extensions, and automation utilities.
+
+### Interactive Games
+Browser-based games showcasing algorithms and UI/UX design.
+
+---
+
+## Core Competencies
+
+- System Architecture & Product Strategy
+- AI/ML Engineering (RAG, Agents, LLMs)
+- Full-Stack Web Development
+- Developer Experience (DX) Design
+- Cloud Infrastructure & CI/CD
+
+---
+
+## Connect
+
+- **Email:** mk.knight970@gmail.com
+- **GitHub:** [@mk-knight23](https://github.com/mk-knight23)
+- **LinkedIn:** [kazi-musharraf](https://www.linkedin.com/in/kazi-musharraf-0674871a4)

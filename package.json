@@ -1,8 +1,8 @@
 {
-  "name": "29-repo-showcase",
+  "name": "07-portfolio-indie-saas",
   "private": false,
   "version": "2.1.0",
-  "description": "Enterprise project showcase and starter hub modernized with React 19, Vite 6, and Tailwind CSS v4.",
+  "description": "Kazi Musharraf — Indie Builder & SaaS Developer Portfolio. Shipping products, building in public, and creating solopreneur ventures.",
   "type": "module",
   "scripts": {
     "lint": "eslint .",
@@ -23,9 +23,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mk-knight23/29-repo-showcase.git"
+    "url": "git+https://github.com/mk-knight23/07-portfolio-indie-saas.git"
   },
-  "homepage": "https://mk-knight23.github.io/29-repo-showcase/",
+  "homepage": "https://mk-knight23.github.io/07-portfolio-indie-saas/",
   "dependencies": {
     "clsx": "^2.1.1",
     "framer-motion": "^12.29.2",
@@ -36,6 +36,7 @@
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.18",
+    "@types/node": "^25.1.0",
     "@types/react": "^19.2.9",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^4.7.0",

@@ -190,7 +190,7 @@ export default function App() {
                             className="inline-flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-pink-500/20 to-violet-500/20 border border-pink-500/30 rounded-full text-pink-400 text-sm font-medium mb-8"
                         >
                             <Sparkles className="w-4 h-4" />
-                            Creative Developer & Experience Designer
+                            Indie Builder & SaaS Developer
                         </motion.div>
 
                         <motion.h1
